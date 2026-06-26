@@ -1,0 +1,10 @@
+adjective1=input("enter a adjective(description):")
+noun=input("enter the noun(place,person,thing):")
+adjective2=input("enter a adjective(description):")
+verb=input("enter a verb(activity like play,eat,walk etc):")
+adjective3=input("enter a adjective(description):")
+
+print(f"i go to the school which is {adjective1}")
+print(f"in {adjective1} school, i saw {noun}")
+print(f"{noun} is the very {adjective2} and he is {verb} there")
+print(f"i am {adjective3}")
